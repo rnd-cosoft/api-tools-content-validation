@@ -1,5 +1,5 @@
 {
-    "name": "laminas-api-tools/api-tools-content-validation",
+    "name": "rnd-cosoft/api-tools-content-validation",
     "description": "Laminas module providing incoming content validation",
     "license": "BSD-3-Clause",
     "keywords": [
